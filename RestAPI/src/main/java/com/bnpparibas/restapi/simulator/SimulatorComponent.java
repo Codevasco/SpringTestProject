@@ -9,9 +9,9 @@ import org.springframework.stereotype.Component;
 public class SimulatorComponent {
 
     @Value("100")
-    private int blinkMillis;
+    private int maxRandom;
 
     @Value("3500")
-    private int maxRandom;
+    private int blinkMillis;
 
 }
