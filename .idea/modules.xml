@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boot/Boot.iml" filepath="$PROJECT_DIR$/Boot/Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H2Books/H2Books.iml" filepath="$PROJECT_DIR$/H2Books/H2Books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestAPI/RestAPI.iml" filepath="$PROJECT_DIR$/RestAPI/RestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringTestProject.iml" filepath="$PROJECT_DIR$/.idea/SpringTestProject.iml" />
+    </modules>
+  </component>
+</project>
