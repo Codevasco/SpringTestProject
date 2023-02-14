@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text>"${name}"</title>
+</head>
+<body>
+   <h1 th:text="${description}"></h1>
+   <span th:text="'V' + ${version}"></span>
+   <span th:text="' | url:' + ${url}"></span>
+   <h2>Simulator</h2>
+   <hr>
+   <pre><a href="/simulator">Simulator</a></pre>
+</body>
+</html>
